@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmanChauhan29
 - 👀 I’m interested in MERN Stack and Exploring DataScience
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Data Anaytics Projects
+- 🌱 I’m currently learning Full Stack Development
+- 💞️ I’m looking to collaborate on MERN Stack Projects
 - 📫 How to reach me mail : fcaman0110@gmail.com
 
 <!---
