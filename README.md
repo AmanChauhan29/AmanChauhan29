@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aman Chauhan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **DevOps.**
+- 🌱 I’m currently working in **DevOps.** & **Backend Engineering**.
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **DevOps** & **Backend Engineering** technologies.
 
 - 📫 How to reach me **iamanchauhan29@gmail.com**
 
